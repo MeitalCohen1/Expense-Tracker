@@ -1,15 +1,7 @@
-# Expense Tracker (React)
+# Expense Tracker
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
+> This project is part of React Udemy course.
+> <br/>
+> It uses functional components with hooks and the context API.
 
-## Usage
-```
-npm install
-
-# Run on http://localhost:3000
-npm start
-
-# Build for prod
-npm run build
-```
-
+[Visit project site](https://meital-expense-tracker.netlify.app/)
